@@ -1,2 +1,3 @@
 write firt test script
+// add some comments
 the second change. I add one more line.
